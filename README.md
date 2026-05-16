@@ -8,7 +8,9 @@
 
 ## 🔧 Tech Stack
 - Python
-- JavaScript (basic)
+- JavaScript
+- C
+- HTML & CSS
 - Git & GitHub
 - VS Code
 - CLI Applications
