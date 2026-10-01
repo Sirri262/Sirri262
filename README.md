@@ -1,8 +1,8 @@
 # Hi, I'm Sırrı 👋
 
 🎓 Computer Science student in Warsaw  
-🐍 Python Developer (Entry Level)  
-🚀 Interested in Backend Development & Cloud Technologies
+🐍 Python Developer (begginer)  
+🚀 Interested in Python and Databases | Improving My Skills in Software Development, Problem Solving and Technology
 
 ---
 
@@ -10,7 +10,6 @@
 - Python
 - JavaScript
 - C
-- HTML & CSS
 - Git & GitHub
 - VS Code
 - CLI Applications
